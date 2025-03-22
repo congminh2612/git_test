@@ -9,11 +9,18 @@ function App() {
   return (
     <>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <div>Main</div>
       <div>Main2</div>
 =======
       <div>Hello</div>
 >>>>>>> 7120653 (feature: add text hello)
+=======
+      <div>Hello</div>
+=======
+      <div>Main</div>
+>>>>>>> ee21d32 (feature: add text hmain)
+>>>>>>> 0f4a2e0 (fix: conflict)
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
