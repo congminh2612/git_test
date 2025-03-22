@@ -8,8 +8,12 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <div>Main</div>
       <div>Main2</div>
+=======
+      <div>Hello</div>
+>>>>>>> 7120653 (feature: add text hello)
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
