@@ -10,17 +10,23 @@ function App() {
     <>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <div>Main</div>
       <div>Main2</div>
 =======
       <div>Hello</div>
 >>>>>>> 7120653 (feature: add text hello)
 =======
+=======
+>>>>>>> 0f4a2e05f0ee646e8682cc47278c0f876e1a1f71
       <div>Hello</div>
 =======
       <div>Main</div>
 >>>>>>> ee21d32 (feature: add text hmain)
+<<<<<<< HEAD
 >>>>>>> 0f4a2e0 (fix: conflict)
+=======
+>>>>>>> 0f4a2e05f0ee646e8682cc47278c0f876e1a1f71
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
